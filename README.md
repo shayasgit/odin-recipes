@@ -1,7 +1,7 @@
 # odin-recipes
 odin-recipes | The Odin Project
 
-Live Preview:
+Live Preview: https://shayasgit.github.io/odin-recipes/
 
 GitHub Repo: https://github.com/shayasgit/odin-recipes
 
