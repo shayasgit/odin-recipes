@@ -1,0 +1,26 @@
+body {
+    width: 75%;
+    margin: 12px auto;
+    background-color: #eee;
+}
+h1 {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-decoration: underline;
+}
+
+button {
+    background-color: yellow;
+    font-size: 18px;
+}
+
+button a {
+    color: black;
+}
